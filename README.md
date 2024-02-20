@@ -1,1 +1,15 @@
-# Brooeli.github.io
+<!DOCTYPE HTMl>
+<html>
+<head>
+<title> Soul Hub </title>
+</head>
+<body>
+<a href="./apps.html"> Apps </a>
+<h1> Welcome to The Soul Hub </h1>
+<h2> Socials </h2>
+<a href="https://www.youtube.com/channel/UCZng7uI0RfnrxGB1Js9OjvA" target="_blank"> Youtube </a>
+<h3> Discord: sxbian_ </h3>
+<h3> Playstation: brooeli </h3>
+<h3> Riot: sabiansoul </h3>
+</body>
+</html>
